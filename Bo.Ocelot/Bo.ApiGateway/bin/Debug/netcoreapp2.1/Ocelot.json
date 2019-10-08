@@ -1,0 +1,32 @@
+{
+  "ReRoutes": [
+    {
+      "UpstreamPathTemplate": "/api/{controller}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/{controller}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "host": "192.168.2.6",
+          "port": 5011
+        },
+        {
+          "host": "192.168.2.180",
+          "port": 5012
+        }
+      ],
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ServiceName": "MyService",
+      "UseServiceDiscovery": true
+    }
+  ],
+  "GlobalConfiguration": {
+    "ServiceDiscoveryProvider": {
+      "Host": "192.168.2.6",
+      "Port": 8500
+    },
+    "BaseUrl": "http://localhost:5000"
+  }
+}

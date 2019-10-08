@@ -1,0 +1,13 @@
+F:\GRPC\Bo.Ocelot\Bo.ApiGateway\bin\Debug\netcoreapp2.1\Bo.ApiGateway.deps.json
+F:\GRPC\Bo.Ocelot\Bo.ApiGateway\bin\Debug\netcoreapp2.1\Bo.ApiGateway.runtimeconfig.json
+F:\GRPC\Bo.Ocelot\Bo.ApiGateway\bin\Debug\netcoreapp2.1\Bo.ApiGateway.runtimeconfig.dev.json
+F:\GRPC\Bo.Ocelot\Bo.ApiGateway\bin\Debug\netcoreapp2.1\Bo.ApiGateway.dll
+F:\GRPC\Bo.Ocelot\Bo.ApiGateway\bin\Debug\netcoreapp2.1\Bo.ApiGateway.pdb
+F:\GRPC\Bo.Ocelot\Bo.ApiGateway\obj\Debug\netcoreapp2.1\Bo.ApiGateway.csproj.CoreCompileInputs.cache
+F:\GRPC\Bo.Ocelot\Bo.ApiGateway\obj\Debug\netcoreapp2.1\Bo.ApiGateway.RazorAssemblyInfo.cache
+F:\GRPC\Bo.Ocelot\Bo.ApiGateway\obj\Debug\netcoreapp2.1\Bo.ApiGateway.RazorAssemblyInfo.cs
+F:\GRPC\Bo.Ocelot\Bo.ApiGateway\obj\Debug\netcoreapp2.1\Bo.ApiGateway.AssemblyInfoInputs.cache
+F:\GRPC\Bo.Ocelot\Bo.ApiGateway\obj\Debug\netcoreapp2.1\Bo.ApiGateway.AssemblyInfo.cs
+F:\GRPC\Bo.Ocelot\Bo.ApiGateway\obj\Debug\netcoreapp2.1\Bo.ApiGateway.RazorTargetAssemblyInfo.cache
+F:\GRPC\Bo.Ocelot\Bo.ApiGateway\obj\Debug\netcoreapp2.1\Bo.ApiGateway.dll
+F:\GRPC\Bo.Ocelot\Bo.ApiGateway\obj\Debug\netcoreapp2.1\Bo.ApiGateway.pdb
